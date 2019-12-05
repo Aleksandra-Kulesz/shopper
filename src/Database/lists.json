@@ -1,0 +1,232 @@
+{
+  "lists": [
+    {
+      "title": "Pierogi ruskie",
+      "date": "2019-11-29T09:31:29.793Z",
+      "products": [
+        {
+          "id": "fdbfe560-128a-11ea-882d-6596a3557711",
+          "title": "ziemniaki",
+          "isProductEditable": false
+        },
+        {
+          "id": "00145cb0-128b-11ea-882d-6596a3557711",
+          "title": "twaróg",
+          "isProductEditable": false
+        },
+        {
+          "id": "02f5d1c0-128b-11ea-882d-6596a3557711",
+          "title": "mąka",
+          "isProductEditable": false
+        },
+        {
+          "id": "055b8720-128b-11ea-882d-6596a3557711",
+          "title": "cebula",
+          "isProductEditable": false
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "Makowiec",
+      "date": "2019-11-29T09:36:04.731Z",
+      "products": [
+        {
+          "id": "a1f67860-128b-11ea-bf95-99b11a9ad0ad",
+          "title": "mak",
+          "isProductEditable": false
+        },
+        {
+          "id": "a3f75170-128b-11ea-bf95-99b11a9ad0ad",
+          "title": "mąka",
+          "isProductEditable": false
+        },
+        {
+          "id": "a6ad22a0-128b-11ea-bf95-99b11a9ad0ad",
+          "title": "rodzynki",
+          "isProductEditable": false
+        },
+        {
+          "id": "a9159720-128b-11ea-bf95-99b11a9ad0ad",
+          "title": "drożdże",
+          "isProductEditable": false
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "sylwester",
+      "date": "2019-11-29T09:41:20.262Z",
+      "products": [
+        {
+          "id": "5eca7770-128c-11ea-b222-8f58fa1204ff",
+          "title": "sukienka ze złotymi cekinami",
+          "isProductEditable": false
+        },
+        {
+          "id": "62e270b0-128c-11ea-b222-8f58fa1204ff",
+          "title": "szampan",
+          "isProductEditable": false
+        },
+        {
+          "id": "656e72c0-128c-11ea-b222-8f58fa1204ff",
+          "title": "chipsy",
+          "isProductEditable": false
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "Mięsny jeż",
+      "date": "2019-11-29T10:05:54.953Z",
+      "products": [
+        {
+          "id": "a93f6970-128f-11ea-8bc8-d754e3838c8b",
+          "title": "parówki",
+          "isProductEditable": false
+        },
+        {
+          "id": "abdbe640-128f-11ea-8bc8-d754e3838c8b",
+          "title": "salceson",
+          "isProductEditable": false
+        },
+        {
+          "id": "ae7c5ab0-128f-11ea-8bc8-d754e3838c8b",
+          "title": "boczek",
+          "isProductEditable": false
+        },
+        {
+          "id": "cd353120-128f-11ea-8bc8-d754e3838c8b",
+          "title": "kiełbasa",
+          "isProductEditable": false
+        },
+        {
+          "id": "d0b75300-128f-11ea-8bc8-d754e3838c8b",
+          "title": "kabanosy",
+          "isProductEditable": false
+        },
+        {
+          "id": "d3eb54e0-128f-11ea-8bc8-d754e3838c8b",
+          "title": "mortadela",
+          "isProductEditable": false
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "urodziny babci Haliny",
+      "date": "2019-11-29T10:42:40.114Z",
+      "products": [
+        {
+          "id": "dbfb7110-1294-11ea-b71e-db72dd8d0ea7",
+          "title": "świeczki",
+          "isProductEditable": false
+        },
+        {
+          "id": "df4f2ff0-1294-11ea-b71e-db72dd8d0ea7",
+          "title": "tort malinowy",
+          "isProductEditable": false
+        },
+        {
+          "id": "e4880280-1294-11ea-b71e-db72dd8d0ea7",
+          "title": "papier do pakowania",
+          "isProductEditable": false
+        },
+        {
+          "id": "f589ccd0-1294-11ea-b71e-db72dd8d0ea7",
+          "title": "najnowszy kryminał Krajewskiego",
+          "isProductEditable": false
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "Wykopy",
+      "date": "2019-11-29T11:25:33.271Z",
+      "products": [
+        {
+          "id": "d3f40670-129a-11ea-a528-977e052aa891",
+          "title": "szpadel",
+          "isProductEditable": false
+        },
+        {
+          "id": "db374f00-129a-11ea-a528-977e052aa891",
+          "title": "graca",
+          "isProductEditable": false
+        },
+        {
+          "id": "f24c1f40-129a-11ea-a528-977e052aa891",
+          "title": "kilof",
+          "isProductEditable": false
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "WARZYWA",
+      "date": "2019-11-29T11:30:54.409Z",
+      "products": [
+        {
+          "id": "91b9b880-129b-11ea-be89-f5864aa66e85",
+          "title": "marchewka",
+          "isProductEditable": false
+        },
+        {
+          "id": "981b2c90-129b-11ea-be89-f5864aa66e85",
+          "title": "burak",
+          "isProductEditable": false
+        },
+        {
+          "id": "9fda0dc0-129b-11ea-be89-f5864aa66e85",
+          "title": "brukselka",
+          "isProductEditable": false
+        },
+        {
+          "id": "a91de140-129b-11ea-be89-f5864aa66e85",
+          "title": "migdały",
+          "isProductEditable": false
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "pierogi",
+      "date": "2019-11-29T16:38:28.102Z",
+      "products": [
+        {
+          "id": "9e79fa00-12c6-11ea-9e40-2557a6bca633",
+          "title": "kalafior",
+          "isProductEditable": false
+        },
+        {
+          "id": "a0df6140-12c6-11ea-9e40-2557a6bca633",
+          "title": "marchewka",
+          "isProductEditable": false
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "pierogi",
+      "date": "2019-11-29T20:38:50.314Z",
+      "products": [
+        {
+          "id": "309d0190-12e8-11ea-8f5d-bf568bbc9b12",
+          "title": "buraki",
+          "isProductEditable": false
+        },
+        {
+          "id": "33e13010-12e8-11ea-8f5d-bf568bbc9b12",
+          "title": "boczek",
+          "isProductEditable": false
+        },
+        {
+          "id": "3618f7a0-12e8-11ea-8f5d-bf568bbc9b12",
+          "title": "buraki",
+          "isProductEditable": false
+        }
+      ],
+      "id": 9
+    }
+  ]
+}

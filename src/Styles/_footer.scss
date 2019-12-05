@@ -1,0 +1,17 @@
+footer {
+  width: 100%;
+  background-color: black;
+  height: 8rem;
+  color: white;
+  font-size: 3rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: 'Amatic SC', cursive;
+  a{
+    color: white;
+    i{
+      padding: 2rem;
+    }
+  }
+}

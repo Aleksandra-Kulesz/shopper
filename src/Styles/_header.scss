@@ -1,0 +1,57 @@
+header {
+  height: 10rem;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+    a {
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      .logo {
+        height: 10rem;
+        width: 10rem;
+        background-image: url("./../Assets/Shopper3.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin-left: 3rem;
+        margin-right: 2rem;
+      }
+
+      .logo_name {
+        font-family: 'Amatic SC', cursive;
+        font-size: 6rem;
+        color: white;
+        font-weight: 500;
+      }
+    }
+
+  nav {
+    ul{
+      display: flex;
+      li{
+        color: white;
+        text-transform: uppercase;
+        font-size: 1.5rem;
+        margin-right: 2rem;
+        &:hover {
+          font-size: 1.7rem;
+          font-weight: 700;
+        }
+        a{
+          color: white;
+          text-transform: uppercase;
+          font-size: 1.5rem;
+          margin-right: 2rem;
+          text-decoration: none;
+          &:hover {
+            font-size: 1.7rem;
+            font-weight: 700;
+          }
+        }
+      }
+    }
+  }
+}

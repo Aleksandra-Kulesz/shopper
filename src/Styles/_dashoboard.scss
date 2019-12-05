@@ -1,0 +1,51 @@
+.dashboard {
+  background-color: #ddd;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  .add {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    width: 30%;
+
+    .add_logo {
+      background-image: url("./../Assets/Shopper2.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      height: 15rem;
+      width: 15rem;
+      margin-top: 2rem;
+    }
+
+    .add_name {
+      font-family: 'Amatic SC', cursive;
+      font-size: 4rem;
+      font-weight: bold;
+      margin: 0;
+      text-align: center;
+    }
+
+    i {
+      font-size: 13rem;
+      font-weight: 300;
+    }
+
+    .tail {
+      border: none;
+      background-color: black;
+      padding: 3rem 5rem;
+      border-radius: 0 5rem;
+      width: 50%;
+      margin-bottom: 2rem;
+      &:hover{
+        transform: rotate(7deg);
+      }
+    }
+  }
+}

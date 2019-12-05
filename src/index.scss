@@ -1,0 +1,25 @@
+@import "Styles/reset";
+
+html {
+  font-size: 10px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+body {
+  width: 100vw;
+  font-family: 'Lato',sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+@import "./Styles/header";
+@import "./Styles/carousel";
+@import "./Styles/about";
+@import "./Styles/contact";
+@import "./Styles/footer";
+@import "./Styles/login";
+@import "./Styles/dashoboard";
+@import "./Styles/newList";
+@import "./Styles/lists";
